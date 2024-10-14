@@ -6,7 +6,7 @@ Currently two basic use cases are implemented:
 - Charging Sesssion Data Overview:
   Get the charging sessions of all EMAIDs and summarize the session data per EMAID and per month of the year.
 
-Currently the Dashboard is implemented using Compleo's eOperate APIs: https://econnect.services-emobility.com/
+Currently the Dashboard is implemented using [vaylens Portal APIs](https://api.vaylens.com/ui/home): 
 
 # How to start the Dashboard
 ## Prerequisite
